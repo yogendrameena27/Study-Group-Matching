@@ -8,6 +8,8 @@ The **Study Group Matching** smart contract is a decentralized platform built on
 
 ## Contract address
  0x5FEfAEdA8b970dc0c9d7191963Bc7B5b3063608f
+ ![image](https://github.com/user-attachments/assets/090aa16f-3094-4e52-ac23-da02b341b767)
+
 
 ## Project Vision
 The vision of this project is to create a decentralized, trustless platform that helps students connect and collaborate on their academic goals. By matching study partners based on their interests and schedules, the platform aims to improve the learning experience and make it more efficient.
